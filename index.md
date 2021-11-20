@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 青岛能源让生活更美好
 
 You can use the [editor on GitHub](https://github.com/ydkddff/yanhiz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
